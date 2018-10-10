@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperGame", "SuperGame\SuperGame.csproj", "{8BEC32CF-8AF3-4B49-B0D4-C0BDA8128B9A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8BEC32CF-8AF3-4B49-B0D4-C0BDA8128B9A}.Debug|x86.ActiveCfg = Debug|x86
+		{8BEC32CF-8AF3-4B49-B0D4-C0BDA8128B9A}.Debug|x86.Build.0 = Debug|x86
+		{8BEC32CF-8AF3-4B49-B0D4-C0BDA8128B9A}.Release|x86.ActiveCfg = Release|x86
+		{8BEC32CF-8AF3-4B49-B0D4-C0BDA8128B9A}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8F751DD7-C6DC-4564-9221-0BFEC2DBC475}
+	EndGlobalSection
+EndGlobal
